@@ -1,0 +1,5 @@
+Gulp Tasks:
+  Gulp:
+   ☐ Add config.js for source and destination and some other configs
+  Browserify:
+   ☐ Reformat the browserify task with reference from gulp-starter
